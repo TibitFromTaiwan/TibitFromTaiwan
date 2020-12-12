@@ -18,8 +18,8 @@
 
 ### Programming Languages  and Tools 🛠️
 
-| [<img src="./images/html.png" alt="HTML" width="32">](https://www.w3.org//) | [<img src="./images/css.png" alt="CSS" width="32">](https://www.w3.org//) | [<img src="./images/js.png" alt="javascript" width="32">](https://www.ecma-international.org/) | [<img src="./images/python.png" alt="python" width="32">](https://www.python.org/) | [<img src="./images/vscode.png" alt="CSS" width="32">](https://www.w3.org//) | [<img src="./images/ubuntu.png" alt="ubuntu" width="32">](https://ubuntu.com//)
-|---|---|---|---|---|---
+| [<img src="./images/html.png" alt="HTML" width="32">](https://www.w3.org//) | [<img src="./images/css.png" alt="CSS" width="32">](https://www.w3.org//) | [<img src="./images/js.png" alt="javascript" width="32">](https://www.ecma-international.org/) | [<img src="./images/python.png" alt="python" width="32">](https://www.python.org/) | [<img src="./images/blank.png" alt="" width="32">]()  | [<img src="./images/vscode.png" alt="CSS" width="32">](https://www.w3.org//) | [<img src="./images/ubuntu.png" alt="ubuntu" width="32">](https://ubuntu.com//)
+|---|---|---|---|---|---|---
 
 
 

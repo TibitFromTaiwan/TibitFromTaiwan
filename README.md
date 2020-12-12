@@ -1,12 +1,6 @@
-<style>
-:root {
-    --main-color: #006683;
-}
-</style>
-
 # Hi there, I'm Li Chun Hua, tibitTW 👋
 
-<h3 style="color:var(--main-color)">Fall'in love with Python, Html, CSS and javascript</h3>
+<h3 style="color:#006683">Fall'in love with Python, Html, CSS and javascript</h3>
 
 ### Repositories on progress
 

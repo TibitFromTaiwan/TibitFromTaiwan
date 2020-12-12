@@ -1,8 +1,6 @@
-### Hi there, I'm Li Chun Hua, tibitTW 👋
+# Hi there, I'm Li Chun Hua, tibitTW 👋
 
----
-
-**Fall'in love with Python, Html, CSS and javascript**
+### Fall'in love with Python, Html, CSS and javascript
 
 ### Here's my working repositories
 
